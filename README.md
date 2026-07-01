@@ -10,7 +10,7 @@ protPheMut is a machine-learning framework for classifying phenotypic effects of
 
 This repository is organized as a companion analysis and reproducibility repository. It documents the curated mutation datasets, feature engineering strategy, model construction and validation, benchmark comparisons, SHAP-based interpretation, and case studies described in the publication.
 
-![Workflow overview](figures/Workflow-overview.png)
+![Workflow overview](figures/workflow-overview.png)
 
 ## Relationship to the protPheMut Web Server
 

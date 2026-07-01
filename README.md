@@ -92,12 +92,11 @@ Model performance was evaluated using AUROC, AUPRC, accuracy, precision, recall,
 
 The model uses SHAP explanations to improve interpretability. SHAP was used for both global feature-importance analysis and individual mutation-level interpretation, helping identify how sequence, structure, network, and dynamics features contribute to cancer- or NDD-associated predictions.
 
-## Repository Structure
+## Publication
+Wang J#, Yang M#, Zong C, Li Y, Verkhivker G, Xiao F, Hu G.
+protPheMut: An Interpretable Machine Learning Tool for Classification of Cancer and Neurodevelopmental Disorders in Human Missense Mutations.
+Journal of Chemical Information and Modeling, 2025, 65(15): 8375-8384.
+# Equal contribution.
 
-```text
-data/
-docs/
-figures/
-scripts/
-workflow/
-results/
+## Notes
+This repository emphasizes analysis documentation, reproducible workflow organization, and paper-related model interpretation. The full web-server implementation and deployment code are credited to Jingran Wang and are available at [https://github.com/Spencer-JRWang/protPheMut](https://github.com/Spencer-JRWang/protPheMut)

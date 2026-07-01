@@ -16,9 +16,7 @@ This repository is organized as a companion analysis and reproducibility reposit
 
 Jingran Wang made major contributions to the development, deployment, and maintenance of the protPheMut web server. Miao Yang made major contributions to the development and testing of the protPheMut web server.
 
-The main protPheMut web-server codebase is maintained by Jingran Wang at:
-
-[https://github.com/Spencer-JRWang/protPheMut](https://github.com/Spencer-JRWang/protPheMut)
+The main protPheMut web-server codebase is maintained by Jingran Wang at: [https://github.com/Spencer-JRWang/protPheMut](https://github.com/Spencer-JRWang/protPheMut)
 
 The web server is available at: [http://netprotlab.com/protPheMut/](http://netprotlab.com/protPheMut/)
 

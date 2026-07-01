@@ -10,17 +10,17 @@ protPheMut is a machine-learning framework for classifying phenotypic effects of
 
 This repository is organized as a companion analysis and reproducibility repository. It documents the curated mutation datasets, feature engineering strategy, model construction and validation, benchmark comparisons, SHAP-based interpretation, and case studies described in the publication.
 
+![Workflow overview](figures/Workflow-overview.png)
+
 ## Relationship to the protPheMut Web Server
+
+Jingran Wang made major contributions to the development, deployment, and maintenance of the protPheMut web server. Miao Yang made major contributions to the development and testing of the protPheMut web server.
 
 The main protPheMut web-server codebase is maintained by Jingran Wang at:
 
 [https://github.com/Spencer-JRWang/protPheMut](https://github.com/Spencer-JRWang/protPheMut)
 
-Jingran Wang made major contributions to the development, deployment, and maintenance of the protPheMut web server. His work transformed the PTEN-focused analytical strategy from our previous study into a broader web-accessible framework that supports phenotypic mutation analysis across multiple proteins.
-
-The web server is available at:
-
-[http://netprotlab.com/protPheMut/](http://netprotlab.com/protPheMut/)
+The web server is available at: [http://netprotlab.com/protPheMut/](http://netprotlab.com/protPheMut/)
 
 ## Dataset Scale
 
